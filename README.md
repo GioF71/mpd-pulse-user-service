@@ -22,12 +22,12 @@ Keep in mind that this script will not remove any files under "~/.mpd" in order 
 The service can be managed with the usual systemd commands.
 
 #### Start mpd-pulse
-`systemctl --user mpd-pulse start`
+`systemctl --user start mpd-pulse`
 
 #### Stop mpd-pulse
-`systemctl --user mpd-pulse start`
+`systemctl --user start mpd-pulse`
 
 #### Restart mpd-pulse
-`systemctl --user mpd-pulse start`
+`systemctl --user restart mpd-pulse`
 
 Equivalent convenience scripts are also provided (start.sh, stop.sh, restart.sh).
