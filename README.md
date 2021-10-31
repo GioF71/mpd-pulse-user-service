@@ -6,7 +6,7 @@ It uses PulseAudio as output device using the name "mpd-pulse".
 - You will need to have mpd (Music Player Daemon) installed.
 
 ## Install/Remove
-Install by simply running 
+Install by simply running the following command: 
 
 `sh install.sh`
 
