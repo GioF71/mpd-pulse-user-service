@@ -10,7 +10,7 @@ Install by simply running the following command:
 
 `sh install.sh`
 
-You can remote the service running
+You can remove the service by running the following command: 
 
 `sh remove-service.sh`
 
