@@ -25,7 +25,7 @@ The service can be managed with the usual systemd commands.
 `systemctl --user start mpd-pulse`
 
 #### Stop mpd-pulse
-`systemctl --user start mpd-pulse`
+`systemctl --user stop mpd-pulse`
 
 #### Restart mpd-pulse
 `systemctl --user restart mpd-pulse`
