@@ -1,5 +1,5 @@
 #!/bin/sh
 
-systemctl --user start mpd
+systemctl --user start mpd-pulse
 
 
